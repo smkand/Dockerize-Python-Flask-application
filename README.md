@@ -1,4 +1,3 @@
-
 # Dockerize Simple Flask Application
 
 This repository contains how to create a simple Flask app and run it inside a docker container.
