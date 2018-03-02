@@ -6,7 +6,7 @@ This repository contains how to create a simple Flask app and run it inside a do
 
 ```
 Python  >= 2.7
-Docker >= 1.6.0
+Docker
 pip install -r requirements.txt
 ```
 
